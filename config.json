@@ -1,5 +1,5 @@
 {
-  "family_name": "Maple Mono",
+  "family_name": "Maple Mono YW",
   "use_hinted": true,
   "pool_size": 4,
   "enable_ligature": true,
@@ -18,7 +18,7 @@
     "extrabold": 800
   },
   "line_height": 1,
-  "width": "narrow",
+  "width": "default",
   "feature_freeze": {
     "cv01": "enable",
     "cv02": "ignore",
@@ -55,7 +55,7 @@
     "cv97": "enable",
     "cv98": "enable",
     "cv99": "ignore",
-    "ss01": "ignore",
+    "ss01": "enable",
     "ss02": "ignore",
     "ss03": "ignore",
     "ss04": "ignore",
